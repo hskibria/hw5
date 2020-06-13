@@ -1,0 +1,27 @@
+
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+body{
+  background: grey ;
+}
+footer{
+  display: block;
+   text-align: center;
+   background: black;
+   color:white;
+    padding: 2px;
+    border: 10px;
+    margin: 0;
+
+}
+header{
+  display: block;
+  background: green;
+  padding: 30px;
+  text-align: center;
+}
